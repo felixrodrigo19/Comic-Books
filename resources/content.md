@@ -1,4 +1,5 @@
 ### Content
+Link to dataset: https://www.kaggle.com/iasonaskatechis/comic-books-current-values-and-other-data?select=comics_data.csv
 
 **comic_data.csv:**
 Includes all information about each single issue that could be scraped. In detail:
